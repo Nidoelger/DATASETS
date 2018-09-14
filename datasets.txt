@@ -1,0 +1,13 @@
+Data for: Adult Obesity Prevalence at the County Level in the United States, 2000-2010: Downscaling Public Health Survey Data using a Spatial Microsimulation Approach
+https://search.datacite.org/works/10.17632/XDFCR8MFYZ.1
+
+County level obesity rates from 2000-2010
+
+United States Mortality Rates by County 1980-2014
+https://www.kaggle.com/IHME/us-countylevel-mortality/home
+
+Mortality rates per county for various ailments such as AIDS, maternal disorders, tropical diseases, etc.
+
+
+
+Our group hopes to compare data between obesity rates in the first chart and neonatal and/or maternal disorders to see if there exists notable correlations between these cases.
